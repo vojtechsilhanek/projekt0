@@ -86,3 +86,21 @@
     background-color: #1150B4;
 
 }
+
+.btn {
+    background-color: #1150B4;
+    color: white;
+    border: none;
+    border-radius: 25px;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    
+    
+    margin: 10px 5px;
+}
+
+.btn:hover {
+    background-color: #3367D6;
+    transform: scale(1.05);
+}
